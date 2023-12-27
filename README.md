@@ -28,6 +28,10 @@ The project is organized as follows:
 -   `js`: Contains JavaScript files used for the functionality of the application.
 -   `webfonts`: Contains font files used by FontAwesome.
 
+## Live at:
+
+[![Deploy with Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/project?template=https://github.com/your-username/tracalorie-repo)
+
 ## Author
 
 Ankit Kumar
