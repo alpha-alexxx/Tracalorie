@@ -30,7 +30,7 @@ The project is organized as follows:
 
 ## Live at:
 
-[![Deploy with Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/project?template=https://github.com/your-username/tracalorie-repo)
+[![Deploy with Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tracalorie-alpha-alexxx.vercel.app/)
 
 ## Author
 

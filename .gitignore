@@ -1,5 +1,14 @@
-node_modules
-.vscode
+# Node modules
+node_modules/
+
+/build/
+
+# Environment variables
 .env
-.env.*
-build
+
+# IDE/Editor files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
