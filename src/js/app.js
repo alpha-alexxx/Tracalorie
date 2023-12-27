@@ -16,7 +16,7 @@ class App {
       const mealCollapsableForm = document.querySelector(`#collapse-meal`)
       const workoutCollapsableForm = document.querySelector(`#collapse-workout`)
       if (event.ctrlKey) {
-        event.key === 'm' ? Collapse(mealCollapsableForm, { toggle: true }) : event.key === 'q' && Collapse(workoutCollapsableForm, { toggle: true })
+        event.key === 'm' ? new Collapse(mealCollapsableForm, { toggle: true }) : event.key === 'q' && new Collapse(workoutCollapsableForm, { toggle: true })
       }
     });
 
